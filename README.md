@@ -1,16 +1,25 @@
-# React + Vite
+# 💰 Gelir Gider Takip Uygulaması
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, kişisel bütçenizi yönetmenize yardımcı olan, gelir ve giderlerinizi anlık olarak takip edebileceğiniz modern bir web uygulamasıdır. **React** ve **Vite** kullanılarak geliştirilmiş, **Netlify** üzerinde yayına alınmıştır.
 
-Currently, two official plugins are available:
+## 🚀 Canlı Demo
+Uygulamayı canlıda test etmek için: [gelir-gider-appp.netlify.app](https://gelir-gider-appp.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Özellikler
+* **Hızlı Kayıt:** Gelir ve giderlerinizi saniyeler içinde ekleyin.
+* **Anlık Durum:** Toplam bakiye, toplam gelir ve gider tutarlarını anlık görün.
+* **Responsive Tasarım:** Hem mobil hem de masaüstü cihazlarla tam uyumlu.
+* **Modern Teknoloji:** React'in en güncel özellikleri (Hooks, Functional Components) kullanıldı.
 
-## React Compiler
+## 🛠️ Kullanılan Teknolojiler
+* **Frontend:** React (Vite)
+* **Stil:** CSS3
+* **Yayın (Deployment):** Netlify
+* **Versiyon Kontrol:** Git & GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔧 Kurulum ve Çalıştırma
+Projeyi yerel makinenizde çalıştırmak isterseniz şu adımları izleyin:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Projeyi bilgisayarınıza klonlayın:
+   ```bash
+   git clone [https://github.com/onurKlnc44/gelir-gider-app.git](https://github.com/onurKlnc44/gelir-gider-app.git)
